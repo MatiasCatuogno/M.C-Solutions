@@ -773,6 +773,10 @@ label i{
  border-radius: 4px;
  cursor: pointer;
 }
+.blackmode .formulario_btn{
+ color: black;
+ background: white;
+}
 .formulario_btn:hover{
  box-shadow: 3px 0px 30px rgb(163,163,163);
 }
@@ -784,9 +788,12 @@ label i{
  display: none;
 }
 ::placeholder{
- font-family: 'Roboto', sans-serif;
  font-size: 14px;
  font-weight: bold;
+ font-family: 'Roboto', sans-serif;
+}
+.blackmode ::placeholder{
+ color: rgb(75, 75, 75);
 }
 .titulo{
  font-size: 28px;
