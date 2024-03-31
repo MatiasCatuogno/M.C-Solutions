@@ -1,0 +1,2 @@
+// ScrollReveal
+ScrollReveal().reveal(".header, .menu-btn, .toggler, .sectionprincipal, .section-section-color, .section-h1, .article1-section2, .article2-section2, .article3-section2, hr, .color-de-fondo-slider-logos, .section-facebook-h2, .color-de-fondo-comentarios-facebook, .section-horarios, .color-de-fondo-redes", {delay: 100});
