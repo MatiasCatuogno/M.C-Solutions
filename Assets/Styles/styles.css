@@ -754,9 +754,9 @@ label i{
 }
 .formulario_mensaje{
  background: #BB2929;
- padding: 0 20px;
+ padding: 0px;
  border-radius: 5px;
- margin: 0px 30px;
+ margin: 0px auto;
  height: 40px;
  line-height: 40px;
  display: none;
